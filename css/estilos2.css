@@ -1,0 +1,49 @@
+header {
+    background-color: #77def0;
+    color: rgb(0, 0, 0);
+    padding: 10px 0;
+}
+
+.contenedor-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.texto-header {
+    text-align: center;
+}
+
+header img {
+    max-width: 100%;
+    height: auto;
+}
+
+.forminicial {
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+a {
+    font-size: 1.2rem;
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    border: 1px solid #007BFF;
+    width: 50%;
+}
